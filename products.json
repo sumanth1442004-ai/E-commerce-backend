@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Google Pixel 8",
+    "brand": "Google",
+    "category": "Mobiles",
+    "price": 42999,
+    "originalPrice": 59999,
+    "rating": 4.6,
+    "stock": 14,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Vivo V30",
+    "brand": "Vivo",
+    "category": "Mobiles",
+    "price": 28999,
+    "originalPrice": 34999,
+    "rating": 4.4,
+    "stock": 21,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Oppo Reno 11",
+    "brand": "Oppo",
+    "category": "Mobiles",
+    "price": 27999,
+    "originalPrice": 32999,
+    "rating": 4.3,
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Motorola Edge 50",
+    "brand": "Motorola",
+    "category": "Mobiles",
+    "price": 25999,
+    "originalPrice": 31999,
+    "rating": 4.4,
+    "stock": 16,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Realme 12 Pro",
+    "brand": "Realme",
+    "category": "Mobiles",
+    "price": 23999,
+    "originalPrice": 28999,
+    "rating": 4.2,
+    "stock": 24,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Asus ROG Phone 8",
+    "brand": "Asus",
+    "category": "Mobiles",
+    "price": 69999,
+    "originalPrice": 79999,
+    "rating": 4.7,
+    "stock": 7,
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Nothing Phone 2a",
+    "brand": "Nothing",
+    "category": "Mobiles",
+    "price": 23999,
+    "originalPrice": 27999,
+    "rating": 4.5,
+    "stock": 19,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Poco X6 Pro",
+    "brand": "Poco",
+    "category": "Mobiles",
+    "price": 24999,
+    "originalPrice": 29999,
+    "rating": 4.3,
+    "stock": 22,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 5",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "price": 64999,
+    "originalPrice": 74999,
+    "rating": 4.5,
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Asus VivoBook 16",
+    "brand": "Asus",
+    "category": "Laptops",
+    "price": 56999,
+    "originalPrice": 66999,
+    "rating": 4.4,
+    "stock": 11,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Acer Aspire 7",
+    "brand": "Acer",
+    "category": "Laptops",
+    "price": 58999,
+    "originalPrice": 69999,
+    "rating": 4.3,
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "MSI Thin 15 Gaming Laptop",
+    "brand": "MSI",
+    "category": "Laptops",
+    "price": 72999,
+    "originalPrice": 84999,
+    "rating": 4.6,
+    "stock": 6,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Lenovo LOQ Gaming Laptop",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "price": 77999,
+    "originalPrice": 89999,
+    "rating": 4.7,
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Asus Zenbook 14 OLED",
+    "brand": "Asus",
+    "category": "Laptops",
+    "price": 89999,
+    "originalPrice": 104999,
+    "rating": 4.7,
+    "stock": 4,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Logitech MX Master 3S Mouse",
+    "brand": "Logitech",
+    "category": "Computer Accessories",
+    "price": 7995,
+    "originalPrice": 9995,
+    "rating": 4.8,
+    "stock": 25,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Keychron K2 Mechanical Keyboard",
+    "brand": "Keychron",
+    "category": "Computer Accessories",
+    "price": 6999,
+    "originalPrice": 8999,
+    "rating": 4.6,
+    "stock": 17,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Samsung 27-inch Monitor",
+    "brand": "Samsung",
+    "category": "Computer Accessories",
+    "price": 14999,
+    "originalPrice": 18999,
+    "rating": 4.5,
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "BenQ 24-inch Monitor",
+    "brand": "BenQ",
+    "category": "Computer Accessories",
+    "price": 10999,
+    "originalPrice": 13999,
+    "rating": 4.4,
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "TP-Link Wi-Fi 6 Router",
+    "brand": "TP-Link",
+    "category": "Computer Accessories",
+    "price": 4499,
+    "originalPrice": 5999,
+    "rating": 4.3,
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Seagate 1TB External Hard Drive",
+    "brand": "Seagate",
+    "category": "Computer Accessories",
+    "price": 4999,
+    "originalPrice": 6499,
+    "rating": 4.4,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Bose QuietComfort Earbuds",
+    "brand": "Bose",
+    "category": "Audio",
+    "price": 17999,
+    "originalPrice": 22999,
+    "rating": 4.7,
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Sennheiser HD 450BT Headphones",
+    "brand": "Sennheiser",
+    "category": "Audio",
+    "price": 7990,
+    "originalPrice": 9990,
+    "rating": 4.5,
+    "stock": 13,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "boAt Airdopes 141",
+    "brand": "boAt",
+    "category": "Audio",
+    "price": 1299,
+    "originalPrice": 2499,
+    "rating": 4.1,
+    "stock": 35,
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Marshall Emberton II Speaker",
+    "brand": "Marshall",
+    "category": "Audio",
+    "price": 14999,
+    "originalPrice": 17999,
+    "rating": 4.6,
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Anker Soundcore Mini 3",
+    "brand": "Anker",
+    "category": "Audio",
+    "price": 2499,
+    "originalPrice": 3499,
+    "rating": 4.3,
+    "stock": 22,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Kindle Paperwhite",
+    "brand": "Amazon",
+    "category": "Books & Reading",
+    "price": 13999,
+    "originalPrice": 15999,
+    "rating": 4.8,
+    "stock": 11,
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Atomic Habits",
+    "brand": "James Clear",
+    "category": "Books & Reading",
+    "price": 399,
+    "originalPrice": 599,
+    "rating": 4.7,
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "The Psychology of Money",
+    "brand": "Morgan Housel",
+    "category": "Books & Reading",
+    "price": 299,
+    "originalPrice": 499,
+    "rating": 4.6,
+    "stock": 28,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Ikigai",
+    "brand": "Hector Garcia",
+    "category": "Books & Reading",
+    "price": 249,
+    "originalPrice": 399,
+    "rating": 4.4,
+    "stock": 26,
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Men's Cotton Polo Shirt",
+    "brand": "U.S. Polo Assn.",
+    "category": "Fashion",
+    "price": 899,
+    "originalPrice": 1499,
+    "rating": 4.3,
+    "stock": 32,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Women's Floral Kurta",
+    "brand": "Biba",
+    "category": "Fashion",
+    "price": 1199,
+    "originalPrice": 1999,
+    "rating": 4.4,
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Men's Slim Fit Chinos",
+    "brand": "Allen Solly",
+    "category": "Fashion",
+    "price": 1299,
+    "originalPrice": 2199,
+    "rating": 4.2,
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Women's Denim Jeans",
+    "brand": "ONLY",
+    "category": "Fashion",
+    "price": 1599,
+    "originalPrice": 2499,
+    "rating": 4.3,
+    "stock": 16,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Men's Casual Sneakers",
+    "brand": "Puma",
+    "category": "Footwear",
+    "price": 2499,
+    "originalPrice": 3999,
+    "rating": 4.4,
+    "stock": 21,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Women's Running Shoes",
+    "brand": "Asics",
+    "category": "Footwear",
+    "price": 4299,
+    "originalPrice": 5999,
+    "rating": 4.6,
+    "stock": 12,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Leather Formal Shoes",
+    "brand": "Hush Puppies",
+    "category": "Footwear",
+    "price": 2999,
+    "originalPrice": 4499,
+    "rating": 4.3,
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Women's Flat Sandals",
+    "brand": "Bata",
+    "category": "Footwear",
+    "price": 799,
+    "originalPrice": 1299,
+    "rating": 4.1,
+    "stock": 24,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "American Tourister Cabin Trolley",
+    "brand": "American Tourister",
+    "category": "Travel",
+    "price": 3999,
+    "originalPrice": 5999,
+    "rating": 4.5,
+    "stock": 9,
+    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Wildcraft Hiking Backpack",
+    "brand": "Wildcraft",
+    "category": "Travel",
+    "price": 1899,
+    "originalPrice": 2799,
+    "rating": 4.4,
+    "stock": 14,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Safari Hard-Sided Suitcase",
+    "brand": "Safari",
+    "category": "Travel",
+    "price": 3299,
+    "originalPrice": 4999,
+    "rating": 4.2,
+    "stock": 11,
+    "image": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Fossil Analog Wrist Watch",
+    "brand": "Fossil",
+    "category": "Watches",
+    "price": 6999,
+    "originalPrice": 9999,
+    "rating": 4.5,
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Casio G-Shock Digital Watch",
+    "brand": "Casio",
+    "category": "Watches",
+    "price": 5995,
+    "originalPrice": 7995,
+    "rating": 4.7,
+    "stock": 13,
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Titan Minimalist Watch",
+    "brand": "Titan",
+    "category": "Watches",
+    "price": 2499,
+    "originalPrice": 3999,
+    "rating": 4.3,
+    "stock": 17,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Philips Air Fryer",
+    "brand": "Philips",
+    "category": "Home & Kitchen",
+    "price": 6999,
+    "originalPrice": 8999,
+    "rating": 4.5,
+    "stock": 10,
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Prestige Induction Cooktop",
+    "brand": "Prestige",
+    "category": "Home & Kitchen",
+    "price": 2499,
+    "originalPrice": 3499,
+    "rating": 4.2,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1584990347449-a5d9f800a783?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Milton Stainless Steel Bottle",
+    "brand": "Milton",
+    "category": "Home & Kitchen",
+    "price": 599,
+    "originalPrice": 899,
+    "rating": 4.4,
+    "stock": 40,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "IKEA Table Lamp",
+    "brand": "IKEA",
+    "category": "Home & Kitchen",
+    "price": 1299,
+    "originalPrice": 1999,
+    "rating": 4.3,
+    "stock": 18,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Dyson V8 Vacuum Cleaner",
+    "brand": "Dyson",
+    "category": "Home Appliances",
+    "price": 24999,
+    "originalPrice": 29999,
+    "rating": 4.7,
+    "stock": 5,
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "AGARO Robot Vacuum Cleaner",
+    "brand": "AGARO",
+    "category": "Home Appliances",
+    "price": 11999,
+    "originalPrice": 16999,
+    "rating": 4.2,
+    "stock": 7,
+    "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "name": "Oral-B Electric Toothbrush",
+    "brand": "Oral-B",
+    "category": "Personal Care",
+    "price": 2499,
+    "originalPrice": 3499,
+    "rating": 4.4,
+    "stock": 19,
+    "image": "https://images.unsplash.com/photo-1609840114035-3c981b782dfe?auto=format&fit=crop&w=800&q=80"
+  }
+]
